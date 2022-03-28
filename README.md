@@ -15,7 +15,7 @@ ADMPLUS-MANAGER-PRO (Dependências ausentes serão instaladas automaticament)
 
 * ADMINISTRADOR
 *BADVPN
-* CORREÇÕES E MELORIAS
+* CORREÇÕES E MELHORIAS
 
 ## :book: How it works
 * Conexão SSH.
