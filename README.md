@@ -1,47 +1,38 @@
 ﻿![logo](https://github.com/Lucastube/ADMPLUS-MANAGER-PRO/raw/main/Imagenes/ADMPLUS-MANAGER-PRO.png)
 
 # ADMPLUS-MANAGER-PRO
-Es un script con un conjunto de características y herramientas adecuadas para 
-   ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-   VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-   y los usuarios ...
+É um script com um conjunto de funcionalidades e ferramentas adequadas para oferecer extrema facilidade de uso em servidores Linux com foco no uso de VPN, possui uma interface agradável fornecendo informações detalhadas sobre a máquina e usuários...
 
 ## :book: Installation Beta
 
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Lucastube/ADMPLUS-MANAGER-PRO/main/Plus; chmod 777 Plus* && ./Plus*
 ```
-ADMPLUS-MANAGER-PRO (las dependencias faltantes se instalarán automáticamente)
+ADMPLUS-MANAGER-PRO (Dependências ausentes serão instaladas automaticament)
 ```
 
 ## :scroll: Changelog
 **VERSION: 1.8**
 
-* WEB ADMIN
-* BADVPN
-* CORRECÃ•ES E MELHORIAS
+* ADMINISTRADOR
+*BADVPN
+* CORREÇÕES E MELORIAS
 
 ## :book: How it works
-* SSH coneccion.
-* Conecciones Dropbear, SSLTunnel4, OpenVPN, etc.
-* Elimina y crea usuarios.
-* Monitor de coneccion online.
-* Detalles de tu sistema y usuarios.
-* Herramientas de escaneo y busqueda.
-* Optimiza y limpia el sistema y mas.
-
+* Conexão SSH.
+* Conexões Dropbear, SSLTunnel4, OpenVPN, etc.
+* Excluir e criar usuários.
+* Monitor de conexão online.
+* Detalhes do seu sistema e usuários.
+* Ferramentas de digitalização e pesquisa.
+* Otimize e limpe o sistema e muito mais.
+ 
 ## :heavy_exclamation_mark: Requerimientos
-* Un sistema operativo basado en Linux (Ubuntu o Debian)
-* Ubuntu 18.04 Server x86_64 / Ubuntu 20.04 Server x86_64
-* Debian 8 Server x86_64 / Debian 9 Server x86_64
+* Um sistema operacional baseado em Linux (Ubuntu ou Debian)
+* Servidor Ubuntu 18.04 x86_64 / Servidor Ubuntu 20.04 x86_64
+* Servidor Debian 8 x86_64 / Servidor Debian 9 x86_64
 * Recomendamos Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
-* Se recomienda usar una distro nueva o formatiada
-* Idioma por defecto es el español
+* Recomenda-se usar uma distro nova ou formatada
+* O idioma padrão é o espanhol
 
-## :octocat: Credits
-1. iLLuminati Dev Team - Developer ADMPlus Manager Pro
-2. @crazy_vpn - Codigo Fuente
-3. @E8th4ver - Codigo Fuente
-3. @OMentalista - Contributor 
-```
 ☆ https://t.me/Lucastube [  ⃘⃤꙰✰ ] ☆
 ```
